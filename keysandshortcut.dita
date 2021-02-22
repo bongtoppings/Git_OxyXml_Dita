@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_pdf_3dw_s4b">
+    <title>Important Keys And Shortcuts</title>
+    <prolog>
+        <author>Smita </author>
+    </prolog>
+    <body>
+        <p>It might help to know these hints<table frame="all" rowsep="1" colsep="1"
+                id="table_kxt_4dw_s4b">
+                <title>Important Keys</title>
+                <tgroup cols="3">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1.49*"/>
+                    <colspec colname="newCol3" colnum="3" colwidth="1.87*"/>
+                    <thead>
+                        <row>
+                            <entry>Key</entry>
+                            <entry>Image</entry>
+                            <entry>Description</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><uicontrol>Call</uicontrol></entry>
+                            <entry><image href="../Downloads/phone_icon.png" id="image_vyx_lfw_s4b"
+                                    height="50"/></entry>
+                            <entry>
+                                <ul id="ul_jyr_pfw_s4b">
+                                    <li>Makes a call</li>
+                                    <li>Answers a call</li>
+                                </ul>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry><uicontrol>Lock</uicontrol></entry>
+                            <entry><image href="../Downloads/mobile-lock-icon.png"
+                                    id="image_b3n_1gw_s4b" height="50"/></entry>
+                            <entry>Locks or unlocks the phone</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table></p>
+        <section id="section_qs4_lgw_s4b">
+            <title>General Shortcut Keys</title>
+            <p>Shortcuts for the console:</p>
+            <table id="wq221">
+                <title>Table 28. Shortcut keys for the console</title>
+                <tgroup cols="2">
+                    <colspec colnum="1" colname="col1"/>
+                    <colspec colnum="2" colname="col2"/>
+                    <thead>
+                        <row>
+                            <entry id="wq222">Function</entry>
+                            <entry id="wq223">Key</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Open the Task Assistant</entry>
+                            <entry>F1</entry>
+                        </row>
+                        <row>
+                            <entry>View the primary topic on keyboard shortcuts in the Task
+                                Assistant.</entry>
+                            <entry>F9</entry>
+                        </row>
+                        <row>
+                            <entry>Close the window that has focus within the console</entry>
+                            <entry>Ctrl + F4</entry>
+                        </row>
+                        <row>
+                            <entry>Select or deselect an item in a Tree view</entry>
+                            <entry>space bar</entry>
+                        </row>
+                        <row>
+                            <entry>Refresh the view that has focus in the work area</entry>
+                            <entry>F5</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </body>
+</topic>
