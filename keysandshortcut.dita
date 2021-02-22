@@ -6,8 +6,10 @@
         <author>Smita </author>
     </prolog>
     <body>
-        <p>It might help to know these hints<table frame="all" rowsep="1" colsep="1"
-                id="table_kxt_4dw_s4b">
+        <p>It might help to know these hints</p>
+        <p>They are quite useful.</p>
+        <p>
+            <table frame="all" rowsep="1" colsep="1" id="table_kxt_4dw_s4b">
                 <title>Important Keys</title>
                 <tgroup cols="3">
                     <colspec colname="c1" colnum="1" colwidth="1*"/>
@@ -40,7 +42,8 @@
                         </row>
                     </tbody>
                 </tgroup>
-            </table></p>
+            </table>
+        </p>
         <section id="section_qs4_lgw_s4b">
             <title>General Shortcut Keys</title>
             <p>Shortcuts for the console:</p>
