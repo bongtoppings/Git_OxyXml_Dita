@@ -3,6 +3,13 @@
 <topic id="get_started">
     <title>Get Started</title>
     <body>
-        <p></p>
+        <p><ph keyref="product"/>
+        </p>
+        <p>
+            <note conref="reusable/reusables.dita#reusables/id_danger"/>
+        </p>
     </body>
+    <related-links>
+        <link href="linux_installation.dita"/>
+    </related-links>
 </topic>

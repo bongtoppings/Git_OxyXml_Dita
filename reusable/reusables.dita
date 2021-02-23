@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="reusables">
+    <title>reusables</title>
+    <body>
+        <p>
+            <note type="danger" id="id_danger">Avoid removing resources from the disk.  </note>
+        </p>
+    </body>
+</topic>
