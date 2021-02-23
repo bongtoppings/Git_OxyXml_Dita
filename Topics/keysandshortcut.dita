@@ -27,8 +27,7 @@
                     <tbody>
                         <row>
                             <entry><uicontrol>Call</uicontrol></entry>
-                            <entry><image href="../Downloads/phone_icon.png" id="image_vyx_lfw_s4b"
-                                    height="50"/></entry>
+                            <entry><image href="../../Downloads/phone_icon.png" id="image_vyx_lfw_s4b" height="50"/></entry>
                             <entry>
                                 <ul id="ul_jyr_pfw_s4b">
                                     <li>Makes a call</li>
@@ -38,10 +37,8 @@
                         </row>
                         <row>
                             <entry><uicontrol>Lock</uicontrol></entry>
-                            <entry><image href="../Downloads/mobile-lock-icon.png"
-                                    id="image_b3n_1gw_s4b" height="50"/></entry>
-                            <entry>Locks or unlocks the phone</entry>
-                        </row>
+                            <entry><image href="../Downloads/mobile-lock-icon.png" id="image_b3n_1gw_s4b" height="50"/></entry>
+                            <entry>Locks or unl../ocks the phone</entry>            </row>
                     </tbody>
                 </tgroup>
             </table>

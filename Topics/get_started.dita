@@ -6,7 +6,7 @@
         <p><ph keyref="product"/>
         </p>
         <p>
-            <note conref="reusable/reusables.dita#reusables/id_danger"/>
+            <note conref="../reusable/reusables.dita#reusables/id_danger"/>
         </p>
     </body>
     <related-links>

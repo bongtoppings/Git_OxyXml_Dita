@@ -3,11 +3,10 @@
 <topic id="linux_installation">
     <title>Linux Installation</title>
     <body>
-        <p><xref href="keysandshortcut.dita"/><image href="images/phone_icon.png"
+        <p><xref href="keysandshortcut.dita"/><image href="../images/phone_icon.png"
                 id="image_k5m_gtd_t4b"/></p>
     </body>
     <related-links>
-        <link href="windows_installation.dita"/>
         <link href="uninstall_procedure.dita">
             <desc><ph keyref="product"/></desc>
         </link>
