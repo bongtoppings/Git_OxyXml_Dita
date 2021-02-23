@@ -5,6 +5,7 @@
     <body>
         <p><xref href="keysandshortcut.dita"/><image href="../images/phone_icon.png"
                 id="image_k5m_gtd_t4b"/></p>
+        <p audience="expert">This should appear only for experts. </p>
     </body>
     <related-links>
         <link href="uninstall_procedure.dita">

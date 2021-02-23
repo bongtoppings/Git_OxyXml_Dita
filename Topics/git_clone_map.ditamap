@@ -5,7 +5,7 @@
     <topicref href="installation.dita">
         <topicref href="linux_installation.dita"/>
     </topicref>
-    <topicref href="get_started.dita"/>
+    <topicref href="get_started.dita" audience="novice"/>
     <topicref href="uninstall_procedure.dita"/>
     <keydef keys="product">
         <topicmeta>
