@@ -5,6 +5,7 @@
     <body>
         <p><ph keyref="product"/>
         </p>
+        <p>Change on the branch v1.0</p>
         <p>
             <note conref="../reusable/reusables.dita#reusables/id_danger"/>
         </p>
